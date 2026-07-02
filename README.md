@@ -13,7 +13,7 @@ Anda dapat melihat tampilan visual dan animasi interaktif dari portofolio ini se
 
 ## 🛠️ Ringkasan Profil & Pengalaman
 
-* **Nama:** Nurus Siroj
+* **Nama:** Muhammad Nurus Siroj
 * **Pendidikan:** S1 Teknik Informatika (Universitas Islam Nahdlatul Ulama Jepara)
 * **Fokus Keahlian:** 
   * **Admin Online Website Furniture (Furnibel.com):** Manajemen kategori e-commerce, update harga produk, dan optimasi konten multimedia untuk Instagram & Facebook Reels.
